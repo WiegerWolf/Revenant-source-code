@@ -7,3 +7,5 @@
 *.ncb
 *.opt
 /Revenant
+backup/
+map/
